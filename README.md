@@ -9,5 +9,3 @@ Système d'appel pour serveur Discord privé, entre amis.
 **Requiert discord.py**
 
 ### Par Lucas Boucher (/xdeo)
-
-![Thumbnail ServerCall](https://lucasboucher.fr/img/Thumbnail-ServerCall.png)
