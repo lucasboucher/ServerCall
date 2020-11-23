@@ -6,4 +6,4 @@ Système d'appel sur serveur Discord privé, entre amis.
 
 **Requiert discord.py**
 
-###Par Lucas Boucher (/xdeo)
+### Par Lucas Boucher (/xdeo)
