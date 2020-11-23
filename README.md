@@ -10,4 +10,4 @@ Système d'appel pour serveur Discord privé, entre amis.
 
 ### Par Lucas Boucher (/xdeo)
 
-![Thumbnail ServerCall](https://lucasboucher.fr/img/ServerCall-Thumbnail.png)
+![Thumbnail ServerCall](https://lucasboucher.fr/img/ServerCall-thumbnail.png)
