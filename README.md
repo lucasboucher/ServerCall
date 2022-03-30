@@ -1,11 +1,11 @@
 # ServerCall
 
-*Discord Bot developed in Python with discord.py library*
+##[Quick demo in video](https://youtu.be/2tlzHpGcxsA)
 
-System call for private Discord server, between friends.
+Discord Bot developed in **Python** with _discord.py_ library
 
-[Quick demo in video](https://youtu.be/2tlzHpGcxsA)
+System call for private Discord server, between friends
 
-**discord.py is required**
+**Don't forget discord.py and his requirements**
 
-### By Lucas Boucher (/xdeo)
+_By Lucas Boucher_
